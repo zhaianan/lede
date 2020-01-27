@@ -161,7 +161,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-wrtbwmon=y
           CONFIG_PACKAGE_luci-app-sfe=y
           CONFIG_PACKAGE_luci-app-unblockneteasemusic=y
-          CONFIG_PACKAGE_luci-app-qBittorrent=y
+          CONFIG_PACKAGE_luci-app-samba4=y
           EOF
           
           # LuCI主题:
